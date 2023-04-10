@@ -71,21 +71,12 @@ here please refer the notes whats the diff b/w == and ===
 
 
 
-// let age = 2
 
-// if ( age >=18){
-//     console.log("print as: ADULT");
 
-// } else {
-//     console.log ("print as MINOR")
-// }
 
- let n = 13;
-if ( n%2==0){
-    console.log("print as : EVEN NUMBER");
-} else{
-    console.log("print as : ODD NUMBER")
-}
+
+
+
 
 
 
